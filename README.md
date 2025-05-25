@@ -29,7 +29,7 @@
 - 💼 Desarrollador de software en entornos Linux.
 - 🧩 Creo soluciones web personalizadas con Laravel, React y WordPress.
 - 📦 Manejo de servidores, contenedores Docker, y control de versiones con Git.
-- 📫 Contacto: [penaranda1931@gmail.com](mailto:penaranda1931@gmail.com)  
+- 📫 Contacto: [codemaster2070@gmail.com](mailto:codemaster2070@gmail.com)  
 - 🌐 Portafolio: [https://portafolioleondev.netlify.app](https://portafolioleondev.netlify.app)
 
 ---
