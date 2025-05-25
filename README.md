@@ -13,6 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="My Sql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mariadb/mariadb-original-wordmark.svg" alt="Maria Db" width="40" height="40"/>
 </p>
 
 🔧 **Otras habilidades**:
@@ -23,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/filezilla/filezilla-original.svg" alt="Filezilla" width="40" height="40"/>
 </p>
 
 ---
