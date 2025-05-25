@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Leonardo Peñaranda
 
 🎓 **Ingeniero de Sistemas**  
-💻 **Desarrollador Web especializado en WordPress, PHP y Laravel**  
+💻 **Desarrollador Web especializado en WordPress, PHP, Laravel, y Js**  
 📍 Los Patios, Colombia | 🕘 UTC -5
 
 ---
@@ -24,9 +24,9 @@
 ---
 
 ## 🌐 Enlaces de interés
-- 🔗 [Portafolio Web](https://portafoliolcodev.netlify.app/)
-- 📧 penaranda1931@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario) <!-- si tienes LinkedIn -->
+- 🔗 [Portafolio Web](https://portafolioleodev.netlify.app/)
+- 📧 codemaster2070@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/leodev2023/) <!-- si tienes LinkedIn -->
 
 ---
 
