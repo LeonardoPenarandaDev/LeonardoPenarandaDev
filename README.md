@@ -35,7 +35,7 @@
 - 🧩 Creo soluciones web personalizadas con Laravel, React y WordPress.
 - 📦 Manejo de servidores, contenedores Docker, y control de versiones con Git.
 - 📫 Contacto: [codemaster2070@gmail.com](mailto:codemaster2070@gmail.com)  
-- 🌐 Portafolio: [https://portafolioleondev.netlify.app](https://portafolioleondev.netlify.app)
+- 🌐 Portafolio: [https://portafolioleodev.netlify.app](https://portafolioleodev.netlify.app)
 
 ---
 
