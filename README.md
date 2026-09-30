@@ -1,88 +1,210 @@
-<h1 align="center">Hola 👋, soy Leonardo Peñaranda</h1>
-<h3 align="center">Desarrollador Web Full-Stack · PHP · Laravel · React · IA</h3>
+<h1 align="center">👋 Hola, soy Leonardo Peñaranda</h1>
+
+<h3 align="center">
+  Full-Stack Developer · PHP · Laravel · React · AI
+</h3>
 
 <p align="center">
-  <em>Construyendo soluciones con código e inteligencia artificial</em>
+  <strong>Construyo aplicaciones web, automatizaciones y soluciones impulsadas por Inteligencia Artificial.</strong>
 </p>
 
 <p align="center">
   <a href="https://portafolioleodev.netlify.app">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portafolio-111827?style=for-the-badge" alt="Portafolio"/>
   </a>
   <a href="mailto:codemaster2070@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/📧_Contacto-111827?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://github.com/LeonardoPenarandaDev">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<br>
+---
 
-## 💻 Stack Principal
+## 🚀 Sobre mí
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
+Soy **desarrollador de software Full-Stack** enfocado en la creación de aplicaciones web, sistemas administrativos y soluciones digitales.
+
+Trabajo principalmente con **PHP, Laravel, React y bases de datos**, combinando desarrollo tradicional con herramientas de **Inteligencia Artificial, automatización y LLMs**.
+
+También tengo experiencia trabajando con **Linux, Docker, Git, servidores y WordPress**, desde el desarrollo hasta el despliegue y mantenimiento.
+
+```text
+💻 Desarrollo Web       → PHP · Laravel · React · JavaScript
+🤖 Inteligencia Artificial → LLMs · APIs · RAG · AI Agents
+🗄️ Bases de Datos       → MySQL · MariaDB
+🐧 Infraestructura      → Linux · Docker · Apache
+🌐 CMS                  → WordPress
+🔧 DevOps               → Git · GitHub · VPS · Deployment
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
 </p>
 
-<br>
+### ⚙️ Backend
 
-## 🤖 Desarrollo con IA
-
-Integro modelos de lenguaje y herramientas de inteligencia artificial en proyectos web reales: desde chatbots y asistentes hasta automatización de flujos con LLMs.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-black?style=flat" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/RAG-6B48FF?style=flat" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI_Agents-FF5A5F?style=flat" alt="AI Agents"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>
 </p>
 
-<br>
+### 🗄️ Bases de datos
 
-## 🔧 Otras Habilidades
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" title="MariaDB"/>
 </p>
 
-<br>
+### 🐧 Infraestructura & Herramientas
 
-## 🧠 Sobre Mí
-
-- 💼 Desarrollador de software en entornos Linux
-- 🧩 Soluciones web personalizadas con Laravel, React y WordPress
-- 🤖 Integración de IA en aplicaciones web y automatización de flujos
-- 📦 Manejo de servidores, contenedores Docker y control de versiones con Git
-- 📫 Contacto: [codemaster2070@gmail.com](mailto:codemaster2070@gmail.com)
-- 🌐 Portafolio: [portafolioleodev.netlify.app](https://portafolioleodev.netlify.app)
-
-<br>
-
-## 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoPenarandaDev&show_icons=true&locale=es&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoPenarandaDev&locale=es" alt="GitHub Streak" height="165"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="45" title="WordPress"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPenarandaDev&layout=compact&locale=es" alt="Top Languages"/>
+---
+
+## 🤖 Inteligencia Artificial
+
+Me interesa especialmente la integración de **IA en aplicaciones web reales**, utilizando APIs de modelos de lenguaje y automatizando procesos.
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/LLM-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-6B48FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI_Agents-FF5A5F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-111827?style=flat-square"/>
+</p>
+
+---
+
+## 📌 ¿Qué desarrollo?
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Aplicaciones Web
+
+* Sistemas administrativos
+* Plataformas educativas
+* Paneles de gestión
+* APIs REST
+* Aplicaciones Full-Stack
+* Sistemas personalizados
+
+</td>
+
+<td width="50%">
+
+### 🤖 Soluciones con IA
+
+* Chatbots
+* Asistentes inteligentes
+* Integración de LLMs
+* Automatización de procesos
+* RAG
+* Agentes de IA
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏗️ Backend & Servidores
+
+* PHP / Laravel
+* MySQL / MariaDB
+* Linux
+* Docker
+* Apache
+* VPS
+
+</td>
+
+<td width="50%">
+
+### 🔧 Desarrollo & Deploy
+
+* Git / GitHub
+* CI/CD
+* Mantenimiento
+* Optimización
+* Seguridad
+* WordPress
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeonardoPenarandaDev&color=blueviolet&style=flat" alt="Visitor Count"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LeonardoPenarandaDev&show_icons=true&hide_border=true&locale=es&theme=transparent"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+<img
+ src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoPenarandaDev&hide_border=true&locale=es&theme=transparent"
+ height="170"
+ alt="GitHub Streak"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPenarandaDev&layout=compact&hide_border=true&locale=es&theme=transparent"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+
+<a href="https://portafolioleodev.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:codemaster2070@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <i>💡 Siempre aprendiendo, construyendo y experimentando con nuevas tecnologías.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeonardoPenarandaDev&label=Profile%20views&color=111827&style=flat" alt="Profile views"/>
 </p>
