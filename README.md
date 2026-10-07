@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Leonardo Peñaranda</h1>
 
 <h3 align="center">
-  Full-Stack Developer · PHP · Laravel · React · Flutter · AI
+  Full-Stack Developer · PHP · Laravel · React · Vue.js · Flutter · AI
 </h3>
 
 <p align="center">
@@ -26,12 +26,12 @@
 
 Soy **desarrollador de software Full-Stack** enfocado en la creación de aplicaciones web, aplicaciones móviles, sistemas administrativos y soluciones digitales.
 
-Trabajo principalmente con **PHP, Laravel, React, Flutter y bases de datos**, combinando desarrollo tradicional con herramientas de **Inteligencia Artificial, automatización y LLMs**.
+Trabajo principalmente con **PHP, Laravel, React, Vue.js, Flutter y bases de datos**, combinando desarrollo tradicional con herramientas de **Inteligencia Artificial, automatización y LLMs**.
 
 También tengo experiencia trabajando con **Linux, Docker, Git, servidores y WordPress**, desde el desarrollo hasta el despliegue y mantenimiento.
 
 ```text
-💻 Desarrollo Web          → PHP · Laravel · React · JavaScript
+💻 Desarrollo Web          → PHP · Laravel · React · Vue.js · JavaScript
 📱 Desarrollo Móvil        → Flutter · Dart
 🤖 Inteligencia Artificial → LLMs · APIs · RAG · AI Agents
 🗄️ Bases de Datos          → MySQL · MariaDB
@@ -51,6 +51,7 @@ También tengo experiencia trabajando con **Linux, Docker, Git, servidores y Wor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" title="Vue.js"/>
 </p>
 
 ### ⚙️ Backend
@@ -203,14 +204,4 @@ Me interesa especialmente la integración de **IA en aplicaciones web y móviles
   <a href="mailto:codemaster2070@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-</p>
-
-<p align="center">
-  <i>💡 Siempre aprendiendo, construyendo y experimentando con nuevas tecnologías.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeonardoPenarandaDev&label=Profile%20views&color=111827&style=flat" alt="Profile views"/>
 </p>
