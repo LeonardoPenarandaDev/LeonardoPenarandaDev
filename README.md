@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hola, soy Leonardo Peñaranda</h1>
 
 <h3 align="center">
-  Full-Stack Developer · PHP · Laravel · React · AI
+  Full-Stack Developer · PHP · Laravel · React · Flutter · AI
 </h3>
 
 <p align="center">
-  <strong>Construyo aplicaciones web, automatizaciones y soluciones impulsadas por Inteligencia Artificial.</strong>
+  <strong>Construyo aplicaciones web, móviles, automatizaciones y soluciones impulsadas por Inteligencia Artificial.</strong>
 </p>
 
 <p align="center">
@@ -24,19 +24,20 @@
 
 ## 🚀 Sobre mí
 
-Soy **desarrollador de software Full-Stack** enfocado en la creación de aplicaciones web, sistemas administrativos y soluciones digitales.
+Soy **desarrollador de software Full-Stack** enfocado en la creación de aplicaciones web, aplicaciones móviles, sistemas administrativos y soluciones digitales.
 
-Trabajo principalmente con **PHP, Laravel, React y bases de datos**, combinando desarrollo tradicional con herramientas de **Inteligencia Artificial, automatización y LLMs**.
+Trabajo principalmente con **PHP, Laravel, React, Flutter y bases de datos**, combinando desarrollo tradicional con herramientas de **Inteligencia Artificial, automatización y LLMs**.
 
 También tengo experiencia trabajando con **Linux, Docker, Git, servidores y WordPress**, desde el desarrollo hasta el despliegue y mantenimiento.
 
 ```text
-💻 Desarrollo Web       → PHP · Laravel · React · JavaScript
+💻 Desarrollo Web          → PHP · Laravel · React · JavaScript
+📱 Desarrollo Móvil        → Flutter · Dart
 🤖 Inteligencia Artificial → LLMs · APIs · RAG · AI Agents
-🗄️ Bases de Datos       → MySQL · MariaDB
-🐧 Infraestructura      → Linux · Docker · Apache
-🌐 CMS                  → WordPress
-🔧 DevOps               → Git · GitHub · VPS · Deployment
+🗄️ Bases de Datos          → MySQL · MariaDB
+🐧 Infraestructura         → Linux · Docker · Apache
+🌐 CMS                     → WordPress
+🔧 DevOps                  → Git · GitHub · VPS · Deployment
 ```
 
 ---
@@ -57,6 +58,13 @@ También tengo experiencia trabajando con **Linux, Docker, Git, servidores y Wor
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>
+</p>
+
+### 📱 Mobile
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" title="Dart"/>
 </p>
 
 ### 🗄️ Bases de datos
@@ -80,7 +88,7 @@ También tengo experiencia trabajando con **Linux, Docker, Git, servidores y Wor
 
 ## 🤖 Inteligencia Artificial
 
-Me interesa especialmente la integración de **IA en aplicaciones web reales**, utilizando APIs de modelos de lenguaje y automatizando procesos.
+Me interesa especialmente la integración de **IA en aplicaciones web y móviles reales**, utilizando APIs de modelos de lenguaje y automatizando procesos.
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -104,13 +112,14 @@ Me interesa especialmente la integración de **IA en aplicaciones web reales**, 
 <tr>
 <td width="50%">
 
-### 🌐 Aplicaciones Web
+### 🌐 Aplicaciones Web y Móviles
 
 * Sistemas administrativos
 * Plataformas educativas
 * Paneles de gestión
 * APIs REST
 * Aplicaciones Full-Stack
+* Aplicaciones móviles (Flutter)
 * Sistemas personalizados
 
 </td>
@@ -168,13 +177,11 @@ Me interesa especialmente la integración de **IA en aplicaciones web reales**, 
     height="170"
     alt="GitHub Stats"
   />
-
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoPenarandaDev&hide_border=true&locale=es&theme=transparent"
- height="170"
- alt="GitHub Streak"
-/>
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoPenarandaDev&hide_border=true&locale=es&theme=transparent"
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
@@ -190,14 +197,13 @@ Me interesa especialmente la integración de **IA en aplicaciones web reales**, 
 ## 📫 Contacto
 
 <p align="center">
-
-<a href="https://portafolioleodev.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:codemaster2070@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://portafolioleodev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:codemaster2070@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </p>
 
